@@ -1,0 +1,29 @@
+{
+  "name": "renorari-brain",
+  "version": "1.0.0",
+  "description": "れのらりのクローンを作成",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renorari/renorari-brain.git"
+  },
+  "keywords": [
+    "renorari",
+    "れのらり",
+    "brain",
+    "AI"
+  ],
+  "author": "れのらり",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renorari/renorari-brain/issues"
+  },
+  "homepage": "https://github.com/renorari/renorari-brain#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.11",
+    "discord.js": "^13.6.0"
+  }
+}
