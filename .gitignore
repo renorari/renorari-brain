@@ -103,8 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# Discord Bot Token
-DiscordBotToken.txt
-
 # 個人情報
-scraped.json
+messages.json
+ai.json
